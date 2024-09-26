@@ -3,6 +3,7 @@ package calculator123456;
 /**
  *
  * @author nalma
+ * A calculator App 
  */
 public class Calculator123456 {
 
