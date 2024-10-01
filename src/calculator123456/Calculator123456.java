@@ -14,6 +14,7 @@ public class Calculator123456 {
         // TODO code application logic here
     }
     
+    // This method sums two integers
     public static int add(int x, int y) {
         return x+y;
     }
