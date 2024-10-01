@@ -23,6 +23,7 @@ public class Calculator123456 {
         return x-y;
     }
     
+    /* This method divides two integers */
     public static int divide(int x, int y) {
         return x/y;
     }
